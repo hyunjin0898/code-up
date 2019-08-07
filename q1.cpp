@@ -1,5 +1,5 @@
-#import <stdio.h>
+#import <iostream>
 
 int main(){
-	printf("Hello World");
+	cout << "Hello World!" ;
 }
